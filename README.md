@@ -1,4 +1,4 @@
-# postgresql-postgrest-tutoral
+# postgresql-postgrest-tutorial
 
 Based on the tutorials Tutorial 0 https://postgrest.org/en/stable/tutorials/tut0.html and Tutorial 1 https://postgrest.org/en/stable/tutorials/tut1.html
 
